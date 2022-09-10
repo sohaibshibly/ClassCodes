@@ -6,3 +6,14 @@ public class main {
         System.out.println(a.square2(5));
     }
 }
+
+////////////////////////////////////////////////////////
+
+class test {
+    int square1(){
+        return 3*3;
+    }
+    int square2(int n){
+        return n*n;
+    }
+}
