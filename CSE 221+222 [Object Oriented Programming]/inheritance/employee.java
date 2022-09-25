@@ -1,7 +1,7 @@
 public class employee {
     float salary=40000;
 }
-class programmer extends employee{
+class programmer extends employee{   //extends keyword for creating sub-class
     float bonus=10000;
 
     public static void main(String[]args){
